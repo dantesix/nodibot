@@ -1,0 +1,19 @@
+{
+  "name": "nodibot",
+  "version": "1.0.0",
+  "description": "Just for fun",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dantesix/nodibot.git"
+  },
+  "author": "nodi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dantesix/nodibot/issues"
+  },
+  "homepage": "https://github.com/dantesix/nodibot#readme"
+}
