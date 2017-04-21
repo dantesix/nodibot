@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dantesix/nodibot/issues"
   },
-  "homepage": "https://github.com/dantesix/nodibot#readme"
+  "homepage": "https://github.com/dantesix/nodibot#readme",
+  "dependencies": {
+    "slackbots": "^1.0.2"
+  }
 }
